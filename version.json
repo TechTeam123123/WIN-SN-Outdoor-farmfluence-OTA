@@ -1,7 +1,4 @@
 {
-  "server": "GitHub",
-  "firmware_version": "1.0.0",
-  "firmware_file": "",
-  "updated_date": "07-08-2026",
-  "updated_time": "09:30 AM"
+  "version": "1.0.0",
+  "updated": "2026-08-08"
 }
